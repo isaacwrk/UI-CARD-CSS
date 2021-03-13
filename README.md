@@ -4,7 +4,9 @@
 > crédito ao canal Online Tutorials, esse projeto foi desenvolvido com a finalidade de estudar o CSS
 > 
 **CARD  sem o :hover**
-![](img/1.jpg)
+
+![](img/1.JPG)
 
 **CARD com o :hover**
-![](img/2.jpg)
+
+![](img/2.JPG)
